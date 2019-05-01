@@ -7,7 +7,7 @@
 > 
 > [Download files](cosmos.jpg)
 > 
-> Flag format: CSR{<string>}
+> Flag format: CSR{&lt;string&gt;}
 
 ## Solution
 
