@@ -1,0 +1,27 @@
+Technical
+---------
+- The final code will be assembled from three parts
+  1) the first part of the code is "cscbe19_medium_pre.bf" (and can be found here: https://s3-eu-west-1.amazonaws.com/be.cscbe.challenges.2019/UnravelingTheAncientWritings%232_e9b58eb59b66d0320645d56eab431f65/cscbe19_medium_pre.bf)
+  2) the second part (the missing line) has to be provided by you (more details below)
+  3) the third part of the code is "cscbe19_medium_post.bf" (and can be found here: https://s3-eu-west-1.amazonaws.com/be.cscbe.challenges.2019/UnravelingTheAncientWritings%232_e9b58eb59b66d0320645d56eab431f65/cscbe19_medium_post.bf)
+
+- This resulting final code will be run using the reference implementation interpreter for this language
+- The output of running the final code with the interpreter should be exactly the same as in the easy challenge (i.e. the flag of the easy challenge)
+- when the code genertates the correct output you will be awarded with ...
+
+Your input
+++++++++++
+- you have to submit "the second part" (2) discussed above
+- a single line, max 80 characters
+- all characters are in the Ascii range 0x20 - 0x7f
+- a newline (0x0a) will be added when to your input when assembling the final code
+    1)
+    2) + "\n"
+    3)
+
+- You have to submit your input to a webserver running at 52.210.193.145 on port 4242 at the URL /bef/medium/your_input_here
+
+  So if you believe that the missing line is "  v *37 <   "   (minus the quotes which are here for readability)
+
+  You would make the request
+     http://52.210.193.145:4242/bef/medium/%20%20v%20*37%20%3C
