@@ -12,7 +12,7 @@
 > 
 > [technical_documentation.txt](technical_documentation.txt)
 >
-> Flag format: CSC{<string>}
+> Flag format: CSC{&lt;string&gt;}
 
 ## Solution
 
