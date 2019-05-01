@@ -12,7 +12,7 @@
 >
 > Can you help us recover the lab password before it is changed again? This might be our only shot...
 >
-> Flag Format: CSC{<string>}
+> Flag Format: CSC{&lt;string&gt;}
 
 ## Solution
 
