@@ -12,7 +12,10 @@
 >
 > Can you help us recover the lab password before it is changed again? This might be our only shot...
 >
+> Files [update.bin](update.bin)
+>
 > Flag Format: CSC{&lt;string&gt;}
+
 
 ## Solution
 
