@@ -7,7 +7,7 @@
 >
 > 99.80.109.60:8080
 >
-> Flag format: CSC{<string>}
+> Flag format: CSC{&lt;string&gt;}
 
 ## Solution
 
