@@ -6,7 +6,7 @@
 >
 > [Download files](Dragon.E01)
 >
-> Flag format: CSC{<string>}
+> Flag format: CSC{&lt;string&gt;}
 
 ## Solution
 
