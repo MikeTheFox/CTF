@@ -9,7 +9,7 @@
 >
 > You can find the encrypted message on the following link:
 >
-> Flag format: CSC{<string>}
+> Flag format: CSC{&lt;string&gt;}
 
 ## Solution 
 
