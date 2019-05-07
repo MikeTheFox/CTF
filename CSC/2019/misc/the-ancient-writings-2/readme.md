@@ -42,4 +42,6 @@ v                                                    <   <    ^<
 
 * Encode the uri and go to the website as described in technical_documentation 
 
-`encodeURI("v                                                    <   <    ^<")`
+```
+encodeURI("v                                                    <   <    ^<")
+```
