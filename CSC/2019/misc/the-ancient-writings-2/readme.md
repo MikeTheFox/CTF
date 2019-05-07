@@ -25,8 +25,12 @@
 
 * Change next line so it has the same result as in the first "ancient-writing" challenge
 
-* Line: `v                                                    <   <    ^<`
+* Line:
+```
+v                                                    <   <    ^<
+```
 
+* Result: 
 ```
 >232+*""43*52**5+65+:*4::**3:*21+:** "b"$                 v    >
 ^"78"v $  $ \ $ \ $<"x32P"    _                           "    v
