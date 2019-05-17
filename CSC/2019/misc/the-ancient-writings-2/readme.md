@@ -16,7 +16,7 @@
 
 ## Solution
 
-* First half has a difference `47+:*2+v` vs 47+:*2+vv
+* First half has a difference `47+:*2+v` vs `47+:*2+vv`
 
 ```
 <>47+:*1+                                        47+:*2+vv"   >^
